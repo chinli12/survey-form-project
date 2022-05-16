@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29ya3xlbnwwfHwwfHw%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container h1{
+    color:white;
+}
+
+.survey-form {
+    width: 50%;
+    background-color: rgba(255,255,255,0.5);
+    margin-top: 27px !important;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.form-label {
+    align-items: flex-start;
+    display: flex;
+}
+.form-check {
+    text-align:left;
+}
+
+.container {
+    padding-bottom: 20px;
+}
